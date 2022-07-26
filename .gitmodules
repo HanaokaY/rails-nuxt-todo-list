@@ -1,0 +1,6 @@
+[submodule "api"]
+  path = api
+  url = https://github.com/HanaokaY/rails-nuxt-todo-list-api
+[submodule "front"]
+  path = front
+  url = https://github.com/HanaokaY/rails-nuxt-todo-list-front
