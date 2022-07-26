@@ -10,3 +10,5 @@
 1. 「apiリポジトリ」にpush
 1. 「apiリポジトリ」のコミットIDが変化
 1. 「rootリポジトリ」もpush
+
+### リポジトリのネスト方法は[こちら](https://blog.cloud-acct.com/posts/u-github-repository/)参照
